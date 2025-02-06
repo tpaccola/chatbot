@@ -205,3 +205,13 @@ E - Acima de R$1.000.000,00`);
         return;
     }
 });
+npm init -y
+{
+  "name": "meu-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
